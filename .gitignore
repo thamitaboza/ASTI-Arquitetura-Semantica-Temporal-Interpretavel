@@ -1,0 +1,13 @@
+# Ignorar a pasta de dados
+data/
+
+# Ambientes virtuais
+.env
+env/
+venv/
+miniconda3/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
